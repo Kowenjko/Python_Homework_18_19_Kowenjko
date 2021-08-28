@@ -1,0 +1,30 @@
+Завершити парсинг сторінки, використовуючи мультипроцесинг
+
+
+Результуючий JSON файл:
+{
+    site: https://www.ukr.net/,
+    date: 24.08.2021,
+    news: [
+            {
+                category: "Економіка",
+                title: "Украина купила ледокол James Clark Ross: раньше у нас не было ни одного",
+                url: "https://zn.ua/ECONOMICS/ukraina-kupila-ledokol-james-clark-ross-ranshe-u-nas-ne-bylo-ni-odnoho.html",
+                source: "ZN,ua",
+                time: "22:12"
+            },
+    ]
+}
+
+--------------------------------------------------
+Попробував зробити з ProcessPoolExecutor не знаю чи правильно
+--------------------------------------------------
+Parallelism - ThreadPoolExecutor
+--------------------------------------------------
+	Curent 2072471, Peak 2367518
+	All done! 0.951923131942749
+--------------------------------------------------
+Parallelism - ProcessPoolExecutor
+--------------------------------------------------
+	Curent 2603053, Peak 2903680
+	All done! 23.564531087875366

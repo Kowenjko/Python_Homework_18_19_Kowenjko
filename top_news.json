@@ -1,0 +1,566 @@
+{
+    "site": "https://www.ukr.net/",
+    "date": "28.08.2021",
+    "news": [
+        {
+            "category": "Відео",
+            "title": "Стали відомі подробиці аварії на Львівщині через п’яного 19-річного водія – троє людей загинули, ще семеро у лікарні (Відео)",
+            "url": "https://kriminal.tv/news/stali_vidomi_podrobitsi_avariji_na_lvivschini_cherez_pjanogo_19_richnogo_vodija_troje_ljudej_zaginuli_sche_semero_u_likarni_video.html",
+            "source": "Криминал.TV",
+            "time": "11:30"
+        },
+        {
+            "category": "Відео",
+            "title": "Основные требования для получения транша от МВФ Украина выполнила, — Марченко (ВИДЕО)",
+            "url": "https://kanaldom.tv/osnovnye-trebovaniya-dlya-polucheniya-transha-ot-mvf-ukraina-vypolnila-marchenko-video/",
+            "source": "Дом",
+            "time": "11:11"
+        },
+        {
+            "category": "Відео",
+            "title": "Обзор матча Элина Свитолина - Ребекка Петерсон в Чикаго (ВИДЕО)",
+            "url": "https://btu.org.ua/news/ukrainskiy-tennis/34465-obzor-matcha-jelina-svitolina-rebekka-peterson-v-chikago-video.html",
+            "source": "Большой теннис Украины",
+            "time": "10:56"
+        },
+        {
+            "category": "Відео",
+            "title": "В России силовики проводят обыски у вокалиста Rammstein Тилля Линдеманна (фото, видео)",
+            "url": "https://focus.ua/world/491382-v-rossii-siloviki-provodyat-obyski-u-vokalista-rammstein-tillya-lindemanna-foto-video",
+            "source": "Фокус",
+            "time": "10:50"
+        },
+        {
+            "category": "Відео",
+            "title": "Alpha Wolf дебютирует в музее Петерсена (ВИДЕО)",
+            "url": "https://newsyou.info/alpha-wolf-debyutiruet-v-muzee-petersena-video",
+            "source": "Newsyou",
+            "time": "10:49"
+        },
+        {
+            "category": "Суспільство",
+            "title": "Стало відомо ім’я лауреата Міжнародної премії ім. Івана Франка 2021",
+            "url": "https://litgazeta.com.ua/news/stalo-vidomo-im-ia-laureata-mizhnarodnoi-premii-im-ivana-franka-2021/",
+            "source": "Літературна газета",
+            "time": "11:41"
+        },
+        {
+            "category": "Суспільство",
+            "title": "Жінка прагне піклуватися, чоловік – досягати успіху: в Інституті книги пояснили, чому придбали для бібліотек сексистську літературу",
+            "url": "https://kyiv.media/news/zhinka-pragne-pikluvatysya-cholovik-dosyagaty-uspihu-v-instytuti-knygy-poyasnyly-chomu-prydbaly-dlya-bibliotek-seksystsku-literaturu",
+            "source": "Київ media",
+            "time": "11:31"
+        },
+        {
+            "category": "Суспільство",
+            "title": "\"Заповіт\" Шевченка увійшов у ТОП-5 книжок світу за кількістю перекладів",
+            "url": "https://meta.ua/uk/news/society/22461-zapovt-shevchenka-uvishov-u-top5-knizhok-svtu-za-klkstyu-perekladv/",
+            "source": "META",
+            "time": "11:31"
+        },
+        {
+            "category": "Суспільство",
+            "title": "Очікуються зливи та туман: де в Україні погіршиться погода",
+            "url": "https://novyny.live/society/ozhidaiutsia-livni-i-tuman-gde-v-ukraine-ukhudshitsia-pogoda-10677.html",
+            "source": "Новини.LIVE",
+            "time": "11:12"
+        },
+        {
+            "category": "Суспільство",
+            "title": "Профтехи можуть продовжити прийом документів на бюджетні місця до 1 жовтня",
+            "url": "https://vseosvita.ua/news/proftekhy-mozhut-prodovzhyty-pryiom-dokumentiv-na-biudzhetni-mistsia-do-1-zhovtnia-44002.html",
+            "source": "Всеосвіта",
+            "time": "11:12"
+        },
+        {
+            "category": "Курйози",
+            "title": "Курьез: в Днепре женщина «вывела» на прогулку двухметрового удава. ФОТО",
+            "url": "https://u-news.com.ua/116022-kurez-v-dnepre-zhenschyna-vyvela-na-progulku-dvuhmetrovogo-udava-foto.html",
+            "source": "U-News",
+            "time": "11:35"
+        },
+        {
+            "category": "Курйози",
+            "title": "«Нано-технологии» в действии: в России на боевом вертолете увидели странную деталь",
+            "url": "https://newsyou.info/nano-texnologii-v-dejstvii-v-rossii-na-boevom-vertolete-uvideli-strannuyu-detal",
+            "source": "Newsyou",
+            "time": "11:26"
+        },
+        {
+            "category": "Курйози",
+            "title": "\"Брат-близнец Шмыгаля\", \"Янукович-фотограф\" и \"Поклонскую послали в Африку\": Самые смешные мемы и фотожабы блогосферы",
+            "url": "https://enovosty.com/news/news_society/full/4863144",
+            "source": "Экономические новости",
+            "time": "11:26"
+        },
+        {
+            "category": "Курйози",
+            "title": "У США суд зобовʼязав батьків виплатити синові $30 тисяч за колекцію викинутого порно",
+            "url": "https://pekeltse.babel.ua/68903-u-ssha-sud-zobov-yazav-batkiv-viplatiti-sinovi-30-tisyach-za-kolekciyu-vikinutogo-porno",
+            "source": "Бабель",
+            "time": "11:24"
+        },
+        {
+            "category": "Курйози",
+            "title": "Дружба щенка и олененка умилила пользователей Сети",
+            "url": "https://internetua.com/drujba-sxenka-i-olenenka-umilila-polzovatelei-seti",
+            "source": "internetua",
+            "time": "11:09"
+        },
+        {
+            "category": "Київські Новини ",
+            "title": "Чудом выжил: в Киеве мужчина нападал на полицию после падения с восьмого этажа",
+            "url": "https://kiev.vgorode.ua/news/sobytyia/a1176005-chudom-vyzhil-v-kieve-muzhchina-napadal-na-politsiju-posle-padenija-s-vosmoho-etazha",
+            "source": "Vgorode.ua",
+            "time": "11:26"
+        },
+        {
+            "category": "Київські Новини ",
+            "title": "В Киеве ограничат входы в метро – на каких станциях и когда",
+            "url": "https://lenta.ua/v-kieve-ogranichat-vhody-v-metro-na-kakih-stantsiyah-i-kogda-106051/",
+            "source": "lenta.ua",
+            "time": "11:15"
+        },
+        {
+            "category": "Київські Новини ",
+            "title": "В киевском парке появилась беседка в крымскотатарском стиле (+фото)",
+            "url": "https://ru.krymr.com/a/news-kiyev-park-troyeshchina-besedka-krymskotatarskiy-stil/31432465.html",
+            "source": "Крым.Реалии",
+            "time": "11:08"
+        },
+        {
+            "category": "Київські Новини ",
+            "title": "На залізничній станції під Києвом вбило струмом 13-річного хлопця: подробиці та фото",
+            "url": "https://aspi.com.ua/news/podii/na-zaliznichniy-stancii-pid-kievom-vbilo-strumom-13-richnogo-khlopcya-podrobici-ta-foto",
+            "source": "АСПІ",
+            "time": "11:06"
+        },
+        {
+            "category": "Київські Новини ",
+            "title": "З початку року 760 колишніх військовослужбовців, які брали участь в АТО, звернулись до Служби зайнятості",
+            "url": "https://vechirniy.kyiv.ua/news/55906/",
+            "source": "Вечірній Київ",
+            "time": "10:49"
+        },
+        {
+            "category": "Шоу-бізнес",
+            "title": "З самопідпалом і Кардаш’ян: Вест втретє презентував, але не випустив альбом «Donda»",
+            "url": "https://bykvu.com/ua/show/z-samopidpalom-i-kardash-jan-vest-vtretie-prezentuvav-donda-ale-ne-vipustiv-albom/",
+            "source": "Буквы",
+            "time": "11:46"
+        },
+        {
+            "category": "Шоу-бізнес",
+            "title": "Юрий Горбунов рассказал о старшем сыне и отношениях братиков",
+            "url": "https://newsyou.info/yurij-gorbunov-rasskazal-o-starshem-syne-i-otnosheniyax-bratikov",
+            "source": "Newsyou",
+            "time": "11:34"
+        },
+        {
+            "category": "Шоу-бізнес",
+            "title": "Едді Мерфі і Джона Гілл зіграють головні ролі в комедії від Netflix",
+            "url": "https://www.trserial.net.ua/eddi-merfi-i-dzhona-gill-zigrayut-golovni-roli-v-komediyi-vid-netflix/",
+            "source": "TRserial.net.ua",
+            "time": "11:30"
+        },
+        {
+            "category": "Шоу-бізнес",
+            "title": "\"Ношу двойню\": 46-летняя Наталья Могилевская сообщила радостные новости",
+            "url": "https://stars.clutch.net.ua/74711-noshu-dvoynyu-46-letnyaya-natalya-mogilevskaya-shokirovala-novostyami-posle-predlozheniya-ruki-i-serdca",
+            "source": "Сlutch",
+            "time": "11:27"
+        },
+        {
+            "category": "Шоу-бізнес",
+            "title": "Тина Кароль возмутилась рекламой шоу, где участник \"спел круче\", чем она",
+            "url": "https://realist.online/news/tina-karol-vozmutilas-reklamoj-shou-hde-uchastnik-spel-kruche-chem-ona",
+            "source": "Realist",
+            "time": "11:25"
+        },
+        {
+            "category": "Події",
+            "title": "Поліція затримала чиновника, що продавав посади у ДСНС",
+            "url": "https://ua.news/ua/politsiya-zaderzhala-chinovnika-kotoryj-prodaval-dolzhnosti-v-gschs/",
+            "source": "UA.NEWS",
+            "time": "11:40"
+        },
+        {
+            "category": "Події",
+            "title": "Стріляв з рогатки у машину патрульних: в Ужгороді чоловіка помістили до ізолятора",
+            "url": "https://suspilne.media/159101-strilav-z-rogatki-u-masinu-patrulnih-v-uzgorodi-colovika-pomistili-do-izolatora/",
+            "source": "UA: Cуспільне мовлення",
+            "time": "11:34"
+        },
+        {
+            "category": "Події",
+            "title": "На Донеччині затримали підлітків, підозрюваних у жорстокому подвійному вбивстві",
+            "url": "https://24tv.ua/donechchini-zatrimali-pidlitkiv-pidozryuvanih-novini-donetska_n1724121",
+            "source": "24 канал",
+            "time": "11:29"
+        },
+        {
+            "category": "Події",
+            "title": "В Харьковской области заметили иностранный беспилотник",
+            "url": "https://informator.ua/ru/v-harkovskoy-oblasti-zametili-inostrannyy-bespilotnik",
+            "source": "Інформатор",
+            "time": "11:26"
+        },
+        {
+            "category": "Події",
+            "title": "В Хмельницкой области патрульный попался на взятке",
+            "url": "https://368.media/2021/08/28/v-hmelnitskoj-oblasti-patrulnyj-popalsya-na-vzyatke/",
+            "source": "368.media",
+            "time": "11:19"
+        },
+        {
+            "category": "Спорт",
+            "title": "«Полесье» станет частным клубом",
+            "url": "https://ua.tribuna.com/football/1100625996.html?utm_source=ukr",
+            "source": "Tribuna.com",
+            "time": "11:41"
+        },
+        {
+            "category": "Спорт",
+            "title": "Илья ЗАБАРНЫЙ: \"Нам выпала очень хорошая группа\"",
+            "url": "https://profootball.ua/400443-ilya-zabarnyj-nam-vypala-ochen-horoshaya-gruppa/",
+            "source": "Про футбол",
+            "time": "11:35"
+        },
+        {
+            "category": "Спорт",
+            "title": "Уинстон-Сейлем. Имер и Ивашко встретятся в финале соревнований",
+            "url": "https://btu.org.ua/news/mirovoy-tennis/34467-uinston-sejlem-imer-i-ivashko-vstretjatsja-v-finale-sorevnovanij.html",
+            "source": "Большой теннис Украины",
+            "time": "11:35"
+        },
+        {
+            "category": "Спорт",
+            "title": "Українська фехтувальниця вийшла до фіналу Паралімпіади",
+            "url": "https://champion.com.ua/others/2021/08/28/880532/morkvich-viyshla-do-finalu-paralimpiadi",
+            "source": "Сhampion.com.ua",
+            "time": "11:35"
+        },
+        {
+            "category": "Спорт",
+            "title": "Шуранова вызвали в молодежную сборную Германии",
+            "url": "https://www.ua-football.com/foreign/germany/1630139242-shuranova-vyzvali-v-molodezhnuyu-sbornuyu-germanii.html?utm_source=ukrnet&utm_medium=cpc&utm_campaign=runewsukrnet",
+            "source": "UA-Футбол",
+            "time": "11:31"
+        },
+        {
+            "category": "Наука",
+            "title": "До Землі наближається астероїд, більший за два Біг-Бени",
+            "url": "http://vsviti.com.ua/news/129373",
+            "source": "ВСВІТІ",
+            "time": "11:44"
+        },
+        {
+            "category": "Наука",
+            "title": "Вулкани виявилися головним фактором регуляції кількості CO2 в атмосфері. Але тепер їх не вистачає",
+            "url": "https://cikavosti.com/vulkany-vyiavylysia-holovnym-faktorom-rehuliatsii-kilkosti-co2-v-atmosferi-ale-teper-ikh-ne-vystachaie/",
+            "source": "Cikavosti.com",
+            "time": "11:00"
+        },
+        {
+            "category": "Наука",
+            "title": "Ученые рассказали, что будет с 95% океанов Земли уже к концу этого столетия",
+            "url": "https://charter97.org/ru/news/2021/8/28/434897/",
+            "source": "Хартия'97",
+            "time": "10:20"
+        },
+        {
+            "category": "Наука",
+            "title": "У Європі вперше посіють пшеницю з відредагованим геномом",
+            "url": "https://agrarii-razom.com.ua/news-agro/u-evropi-vpershe-posiyut-pshenicyu-z-vidredagovanim-genomom",
+            "source": "Аграрії разом",
+            "time": "09:44"
+        },
+        {
+            "category": "Наука",
+            "title": "Пора в космос. Космічний телескоп Джеймса Вебба завершив наземні випробування",
+            "url": "https://nv.ua/ukr/techno/popscience/teleskop-dzheymsa-vebba-50179835.html",
+            "source": "НВ",
+            "time": "09:34"
+        },
+        {
+            "category": "Фоторепортаж",
+            "title": "Магія життя за полярним колом: у світ вийшла фотокнига про Арктику – захопливі знімки",
+            "url": "https://travel.24tv.ua/magiya-zhittya-za-polyarnim-kolom-svit-viyshla-fotokniga-pro_n1722330",
+            "source": "24 канал",
+            "time": "11:37"
+        },
+        {
+            "category": "Фоторепортаж",
+            "title": "Фото того, как жили студенты в советские годы (ФОТО)",
+            "url": "https://novosti-n.org/ukraine/Foto-togo-kak-zhyly-studenti-v-sovetskye-godi-FOTO--278590",
+            "source": "Новости N",
+            "time": "11:19"
+        },
+        {
+            "category": "Фоторепортаж",
+            "title": "Виставка IDEF 2021 у Стамбулі: що продемонструвала Україна",
+            "url": "https://armyinform.com.ua/2021/08/vystavka-idef-2021-u-stambuli-shho-prodemonstruvala-ukrayina/",
+            "source": "АрміяINFORM",
+            "time": "11:11"
+        },
+        {
+            "category": "Фоторепортаж",
+            "title": "Забег в память о героях Украины состоялся в Одессе (фото)",
+            "url": "https://usionline.com/zabeg-v-pamjat-o-gerojah-ukrainy-sostojalsja-v-odesse-foto/",
+            "source": "УСИ",
+            "time": "10:45"
+        },
+        {
+            "category": "Фоторепортаж",
+            "title": "Талибы въехали в аэропорт Кабула (фото)",
+            "url": "https://newsyou.info/taliby-vexali-v-aeroport-kabula-foto",
+            "source": "Newsyou",
+            "time": "10:43"
+        },
+        {
+            "category": "Економіка",
+            "title": "Для ФОП можуть скасувати РРО, але надати ДПС доступ до оборотів по рахунках",
+            "url": "https://buh.ligazakon.net/news/205852_dlya-fop-mozhut-skasuvati-rro-ale-nadati-dps-dostup-do-oborotv-po-rakhunkakh",
+            "source": "Бухгалтер.UA",
+            "time": "11:44"
+        },
+        {
+            "category": "Економіка",
+            "title": "Ціни на вугілля в Європі виросли",
+            "url": "https://kurs.com.ua/ua/novost/520536-ceni-na-ugol-v-evrope-virosli?source=ukrnet",
+            "source": "Курс Украины",
+            "time": "11:43"
+        },
+        {
+            "category": "Економіка",
+            "title": "Запаси природного газу в підземних сховищах України перевищили 18 млрд куб. м.",
+            "url": "https://kosatka.media/uk/category/gaz/news/zapasy-prirodnogo-gaza-v-podzemnyh-hranilishchah-ukrainy-prevysili-18-mlrd-kub-m",
+            "source": "Kosatka.Media",
+            "time": "11:41"
+        },
+        {
+            "category": "Економіка",
+            "title": "Турецька контейнерна лінія почала співпрацю з терміналом у порту «Південний»",
+            "url": "http://agro-business.com.ua/agrobusiness/item/22564-turetska-konteinerna-liniia-pochala-spivpratsiu-z-terminalom-u-portu-pivdennyi.html",
+            "source": "Агробізнес Сьогодні",
+            "time": "11:37"
+        },
+        {
+            "category": "Економіка",
+            "title": "Мін’юст дав роз’яснення щодо набуття у власність с/г земель",
+            "url": "https://agronews.ua/news/minyust-dav-rozyasnennya-shhodo-nabuttya-u-vlasnist-s-g-zemel/",
+            "source": "AgroNews",
+            "time": "11:32"
+        },
+        {
+            "category": "COVID-19",
+            "title": "Два человека в Японии умерли после прививок вакциной Moderna с примесями",
+            "url": "https://censor.net/ru/news/3285032/dva_cheloveka_v_yaponii_umerli_posle_privivok_vaktsinoyi_moderna_s_primesyami",
+            "source": "Цензор.Нет",
+            "time": "11:42"
+        },
+        {
+            "category": "COVID-19",
+            "title": "«Мама, меня выписали!» В детском центре «Молодая гвардия» пятеро детей вылечились от COVID-19",
+            "url": "https://ovd.today/news/5883-mama-menya-vypisali-v-detskom-centre-molodaya-gvardiya-pyatero-detey-vylechilis-ot-covid-19.html",
+            "source": "Овідіопольські новини",
+            "time": "11:38"
+        },
+        {
+            "category": "COVID-19",
+            "title": "Сенсационное исследование в Израиле подтвердило эффективность вакцины от коронавируса",
+            "url": "https://charter97.org/ru/news/2021/8/28/434908/",
+            "source": "Хартия'97",
+            "time": "11:33"
+        },
+        {
+            "category": "COVID-19",
+            "title": "На Рівненщині майже півсотні захворіло та два десятка людей одужало від коронавірусу",
+            "url": "https://rivnepost.rv.ua/news/na-rivnenshchini-mayzhe-pivsotni-zakhvorilo-ta-dva-desyatka-lyudey-oduzhalo-vid-koronavirusu",
+            "source": "Рівне Вечірнє",
+            "time": "11:30"
+        },
+        {
+            "category": "COVID-19",
+            "title": "Американська розвідка оприлюднила звіт про походження коронавірусу",
+            "url": "https://meta.ua/uk/news/world/22451-amerikanska-rozvdka-oprilyudnila-zvt-pro-pohodzhennya-koronavrusu/",
+            "source": "META",
+            "time": "11:30"
+        },
+        {
+            "category": "Політика",
+            "title": "Есть спутниковые и разведданные о расконсервации баз ядерного вооружения в Крыму – экс-министр обороны Украины",
+            "url": "https://ru.krymr.com/a/news-krym-yadernoye-oruzhiye-ugroza-zagorodnyuk/31432494.html",
+            "source": "Крым.Реалии",
+            "time": "11:35"
+        },
+        {
+            "category": "Політика",
+            "title": "Отношений между Украиной и \"Талибаном\" быть не может — Кулеба",
+            "url": "https://zn.ua/POLITICS/otnoshenij-mezhdu-ukrainoj-i-talibanom-byt-ne-mozhet-kuleba.html",
+            "source": "ZN,ua",
+            "time": "11:04"
+        },
+        {
+            "category": "Політика",
+            "title": "Точку неповернення до колоніального статусу Україна пройде, коли вступить до ЄС і НАТО, - Порошенко",
+            "url": "https://ua.interfax.com.ua/news/political/764488.html",
+            "source": "Інтерфакс-Україна",
+            "time": "11:03"
+        },
+        {
+            "category": "Політика",
+            "title": "Кулеба відреагував на прогноз президентки Естонії щодо термінів вступу України в ЄС",
+            "url": "https://www.eurointegration.com.ua/news/2021/08/28/7127127/",
+            "source": "Європейська правда",
+            "time": "10:51"
+        },
+        {
+            "category": "Політика",
+            "title": "Поможет в деоккупации других территорий: Зеленский назвал важность Крымской платформы",
+            "url": "https://flot2017.com/pomozhet-v-deokkupacii-drugih-territorij-zelenskij-nazval-vazhnost-krymskoj-platformy/",
+            "source": "Флот2017",
+            "time": "09:33"
+        },
+        {
+            "category": "За кордоном",
+            "title": "США завдали повітряного удару по афганській провінції",
+            "url": "https://www.slovoidilo.ua/2021/08/28/novyna/svit/ssha-zavdaly-povitryanoho-udaru-po-afhanskij-provincziyi",
+            "source": "Слово і Діло",
+            "time": "11:46"
+        },
+        {
+            "category": "За кордоном",
+            "title": "Верховный суд Беларуси ликвидировал местную Ассоциацию журналистов",
+            "url": "https://gordonua.com/news/worldnews/verhovnyy-sud-belarusi-likvidiroval-mestnuyu-associaciyu-zhurnalistov-1569671.html",
+            "source": "Гордон",
+            "time": "11:33"
+        },
+        {
+            "category": "За кордоном",
+            "title": "В Нидерландах подъемный кран разрушил мост XIX века. Он был памятником национального значения",
+            "url": "https://mayak.org.ua/article/v-niderlandah-podemnyj-kran-razrushil-most-xix-veka-on-byl-pamyatnikom-nacionalnogo-znacheniya/",
+            "source": "Маяк",
+            "time": "11:32"
+        },
+        {
+            "category": "За кордоном",
+            "title": "США нанесли авиаудар по боевику ИГИЛ",
+            "url": "https://myc.news/novosti_mira/ssha_nanesli_aviaudar_po_boeviku_igil",
+            "source": "Матрица Свободы",
+            "time": "11:30"
+        },
+        {
+            "category": "За кордоном",
+            "title": "Талибы и защитники Панджшера договорились не атаковать до следующего раунда переговоров",
+            "url": "http://www.fixygen.ua/news/20210828/taliby-i-zashitniki.html",
+            "source": "Fixygen",
+            "time": "11:25"
+        },
+        {
+            "category": "Здоров’я",
+            "title": "Кардіолог назвала продукти для контролю холестерину в крові",
+            "url": "http://svidok.online/kardiolog-nazvala-produkty-dlya-kontrolyu-holestery-nu-v-krovi/",
+            "source": "Свідок",
+            "time": "11:39"
+        },
+        {
+            "category": "Здоров’я",
+            "title": "Врач назвала способы повышения ослабленного иммунитета весной",
+            "url": "https://storinka.com.ua/2021/08/vrac-nazvala-sposoby-povysenia-oslablennogo-immuniteta-vesnoj/",
+            "source": "Storinka.com.ua",
+            "time": "11:36"
+        },
+        {
+            "category": "Здоров’я",
+            "title": "Лікарі назвали три напої, які сприяють розвитку раку товстої кишки",
+            "url": "https://newsyou.info/likari-nazvali-tri-napo%d1%97-yaki-spriyayut-rozvitku-raku-tovsto%d1%97-kishki",
+            "source": "Newsyou",
+            "time": "11:32"
+        },
+        {
+            "category": "Здоров’я",
+            "title": "Врачи рассказали об опасности летней аллергии",
+            "url": "https://medicina.ua/presscenter/articles/allergology/itm/9939/",
+            "source": "Medicina.ua",
+            "time": "11:16"
+        },
+        {
+            "category": "Здоров’я",
+            "title": "5 порад для батьків, які хочуть підвищити рівень освіти дітей",
+            "url": "https://www.moirebenok.ua/materialy-na-ukrainskom-yazyke/5-porad-dlya-batkiv-yaki-hochut-pidvishhiti-riven-osviti-ditej/",
+            "source": "Мой ребенок",
+            "time": "11:13"
+        },
+        {
+            "category": "Технології",
+            "title": "Совсем скоро: правительство США планирует провести квантовый Интернет по всему континенту",
+            "url": "https://internetua.com/sovsem-skoro-pravitelstvo-ssha-planiruet-provesti-kvantovyi-internet-po-vsemu-kontinentu",
+            "source": "internetua",
+            "time": "11:41"
+        },
+        {
+            "category": "Технології",
+            "title": "Названо 15 телефонів без камери та інтернету в 2021 році",
+            "url": "https://itechua.com/articles/149314",
+            "source": "iTechua",
+            "time": "11:38"
+        },
+        {
+            "category": "Технології",
+            "title": "Айфони Apple подорожчають через дефіцит мікросхем – Wall Street Journal",
+            "url": "https://ms.detector.media/it-kompanii/post/28043/2021-08-28-ayfony-apple-mozhut-podorozhchaty-cherez-defitsyt-mikroskhem-wall-street-journal/",
+            "source": "Детектор медіа",
+            "time": "11:33"
+        },
+        {
+            "category": "Технології",
+            "title": "ConcordBank, Visa и Portmone запускают мобильное приложение POS Phone",
+            "url": "https://banker.ua/concordbank-visa-portmone/",
+            "source": "Banker.ua",
+            "time": "11:33"
+        },
+        {
+            "category": "Технології",
+            "title": "AVR презентував новий картоплезбиральний комбайн Spirit 7200",
+            "url": "https://kurkul.com/news/27451-avr-prezentuvav-noviy-kartoplezbiralniy-kombayn-spirit-7200",
+            "source": "Kurkul.com",
+            "time": "11:31"
+        },
+        {
+            "category": "Авто",
+            "title": "Синоптики попередили водіїв про туман та зливи",
+            "url": "https://www.slovoidilo.ua/2021/08/28/novyna/suspilstvo/synoptyky-poperedyly-ukrayincziv-pro-tuman-ta-zlyvy",
+            "source": "Слово і Діло",
+            "time": "11:46"
+        },
+        {
+            "category": "Авто",
+            "title": "Названо 3 міських кросовера з найбільш місткими багажниками",
+            "url": "https://uamotors.com.ua/auto/55004",
+            "source": "UAMotors",
+            "time": "11:38"
+        },
+        {
+            "category": "Авто",
+            "title": "Daimler знову скоротить виробництво через брак чипів",
+            "url": "http://svidok.online/daimler-znovu-skoroty-t-vy-robny-tstvo-cherez-brak-chy-piv/",
+            "source": "Свідок",
+            "time": "11:36"
+        },
+        {
+            "category": "Авто",
+            "title": "Ситуація в зоні ООС: опубліковано нові дані про рух через КПВВ за добу",
+            "url": "https://sprotyv.info/news/situaciya-v-zoni-oos-opublikovano-novi-dani-pro-ruh-cherez-kpvv-za-dobu",
+            "source": "Информационное сопротивление",
+            "time": "11:33"
+        },
+        {
+            "category": "Авто",
+            "title": "В Украине появятся новые дорожные знаки",
+            "url": "https://autotheme.info/news/149203-v-ukraine-poyavyatsya-novye-dorozhnye-znaki-4.html",
+            "source": "Автотема",
+            "time": "11:30"
+        }
+    ]
+}
